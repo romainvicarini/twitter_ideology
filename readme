@@ -1,0 +1,36 @@
+Fichier readme
+
+Nom : Zatlaoui Arthur / Vicarini Romain
+Nom du projet : Pronostiques Tennis
+
+Résumé : nous nous intéresserons à la carrière de Daniil Medvedev et pronostiquerons donc, à l’aide de ses performances passées, ses futurs résultats sur la scène internationale.
+
+Etapes de réalisation :
+1 semaine pour décider du but du projet.
+1ère évolution vers un pronostiqueur mais de matchs de foot.
+Listes des difficultés : trop d’équipe et d’aléa. Impossibilité d’être précis à notre niveau
+4ème semaine : abandon du foot et redirection vers le tennis plus simple à prédire.
+Démarrage de la collecte de données relatives au tennis (durée approximative : 2 semaines) source : GitHub et Excel pour le tri et analyse des données.
+Début du code : python difficile à utiliser, on se dirigera vers le langage nommé R ci-contre :
+ 
+
+2 semaines de code. 
+Fin du projet
+Commandes :
+
+
+Difficultées :
+Non connaissance du langage. Pour pallier à cela, nous avons utilisé internet et demandé conseil au père de romain, déjà familiarisé avec le logiciel.
+A cause du nombre de variable, il était difficile de bien avoir une vue d’ensemble.
+Nous n’avons pas eu le temps pour l’html et prévoyons de le faire au trimestre prochain.
+De plus, du a notre manque d’expérience nous n’arrivions pas a faire tourner le projet
+
+Prérequis :
+Telecharger R et Rstudio
+Package tibble :dataframe
+Tidyr : simplifie la mise en colonne et en cellules des donnée en les transformant en variable unique
+Dplyr : permet de traité plus légèrement un grand nombre de données
+Glmnet : regression 
+Rpart : pour l’arbre pondéré estimation des chance de victoire
+
+
